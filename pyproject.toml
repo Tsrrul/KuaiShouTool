@@ -1,0 +1,19 @@
+[project]
+name = "KuaiShouParser"
+version = "1.0.0"
+description = "基于requests爬虫解析快手视频、图片下载无水印的轻量级工具"
+requires-python = ">=3.9,<3.13"  # 明确指定Python版本要求
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "imageio-ffmpeg>=0.6.0",
+    "jsonpath>=0.82.2",
+    "lxml>=6.0.2",
+    "moviepy==1.0.3",
+    "pyexecjs2>=1.6.1",
+    "requests>=2.32.5",
+    "ttkbootstrap>=1.18.2",
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.9"
