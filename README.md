@@ -8,7 +8,7 @@
 4.  **基于 FFmpeg**：依托 FFmpeg 强大的音视频编解码能力，保证处理速度和兼容性
 
 ## 打包程序下载
-EXE程序文件下载：[点击下载](https://www.bilibili.com/video/BV1xx411c7mG)
+EXE程序文件下载：[点击下载](https://www.123865.com/s/WkxYTd-MQOgh)
 >#压缩包解压后就是软件本体，找exe文件执行即可
 
 ## 环境准备
